@@ -4,7 +4,7 @@
 int main()
 {
 	printf("hello world\n");
-	system("pause");
+	system("pause"); // 不要立即退出
 }
 
 
