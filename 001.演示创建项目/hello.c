@@ -1,10 +1,10 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
 	printf("hello world\n");
-	system("pause"); // ²»ÒªÁ¢¼´ÍË³ö
+	system("pause"); // ä¸è¦ç«‹å³é€€å‡º
 }
 
 
